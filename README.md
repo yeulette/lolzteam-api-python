@@ -16,21 +16,6 @@ Python SDK for the [LOLZ Forum](https://lolz.live) and [ZT.Market](https://lzt.m
 
 ---
 
-## Installation
-
-```bash
-pip install lolzteam
-```
-
-SOCKS proxy support (recommended):
-
-```bash
-pip install "lolzteam[socks]"
-# or: pip install "httpx[socks]"
-```
-
----
-
 ## Quick start
 
 ### Synchronous
